@@ -4,7 +4,11 @@ I'm InKyu Choi who started learning Programming from South Korea.
 
 + 🌱 I’m currently learning
 
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-round&logo=Java&logoColor=white) ![EclipseIDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-round&logo=Eclipse&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-round&logo=GitHub&logoColor=white) ![Apache Badge](https://img.shields.io/badge/Apache_NetBeans_IDE-1B6AC6?style=flat-round&logo=apache-netbeans-ide&logoColor=white) ![Oracle Badge](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-round&logo=Oracle&logoColor=white) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=HTML5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=grey) ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=React&logoColor=grey)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-round&logo=Java&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=React&logoColor=grey) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=HTML5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=grey)
+![EclipseIDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-round&logo=Eclipse&logoColor=white) ![Apache Badge](https://img.shields.io/badge/Apache_NetBeans_IDE-1B6AC6?style=flat-round&logo=apache-netbeans-ide&logoColor=white) ![Oracle Badge](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-round&logo=Oracle&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-round&logo=GitHub&logoColor=white) 
+
 
 + 📫 How to reach me
 
