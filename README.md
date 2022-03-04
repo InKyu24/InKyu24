@@ -12,8 +12,7 @@ I'm InKyu Choi who started learning Programming from South Korea.
 
 + 📫 How to reach me
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:484342@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/c._.inkyu/)
-
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:484342@gmail.com)
 <!--
 **InKyu24/InKyu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
