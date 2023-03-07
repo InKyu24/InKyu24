@@ -12,8 +12,8 @@ I'm InKyu Choi who started learning Programming from South Korea.
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=JavaScript&logoColor=grey) <br/>
 
 ![EclipseIDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-round&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-round&logo=IntelliJ IDEA&logoColor=white)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-round&logo=Visual Studio Code&logoColor=white) <br/>
+![IntelliJIDEA Badge](https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-round&logo=IntelliJ IDEA&logoColor=white)
+![VisualStudioCode Badge](https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-round&logo=Visual Studio Code&logoColor=white) <br/>
 
 ![Oracle Badge](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat-round&logo=Oracle&logoColor=white) <br/>
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-round&logo=GitHub&logoColor=white) 
